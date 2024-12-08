@@ -1,0 +1,11 @@
+C:\Tan\Tan_BaiTapLTTMTW\Bai3_LTMTW\Bai3_LTMTW\bin\Debug\Bai3_LTMTW.exe.config
+C:\Tan\Tan_BaiTapLTTMTW\Bai3_LTMTW\Bai3_LTMTW\bin\Debug\Bai3_LTMTW.exe
+C:\Tan\Tan_BaiTapLTTMTW\Bai3_LTMTW\Bai3_LTMTW\bin\Debug\Bai3_LTMTW.pdb
+C:\Tan\Tan_BaiTapLTTMTW\Bai3_LTMTW\Bai3_LTMTW\obj\Debug\Bai3_LTMTW.csproj.AssemblyReference.cache
+C:\Tan\Tan_BaiTapLTTMTW\Bai3_LTMTW\Bai3_LTMTW\obj\Debug\Bai3_LTMTW.Properties.Resources.resources
+C:\Tan\Tan_BaiTapLTTMTW\Bai3_LTMTW\Bai3_LTMTW\obj\Debug\Bai3_LTMTW.csproj.GenerateResource.cache
+C:\Tan\Tan_BaiTapLTTMTW\Bai3_LTMTW\Bai3_LTMTW\obj\Debug\Bai3_LTMTW.csproj.CoreCompileInputs.cache
+C:\Tan\Tan_BaiTapLTTMTW\Bai3_LTMTW\Bai3_LTMTW\obj\Debug\Bai3_LTMTW.exe
+C:\Tan\Tan_BaiTapLTTMTW\Bai3_LTMTW\Bai3_LTMTW\obj\Debug\Bai3_LTMTW.pdb
+C:\Tan\Tan_BaiTapLTTMTW\Bai3_LTMTW\Bai3_LTMTW\obj\Debug\Bai3_LTMTW.FormList.resources
+C:\Tan\Tan_BaiTapLTTMTW\Bai3_LTMTW\Bai3_LTMTW\obj\Debug\Bai3_LTMTW.FormNhanVien.resources
